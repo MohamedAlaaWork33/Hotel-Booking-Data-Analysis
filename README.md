@@ -259,19 +259,19 @@ Final_Project_Hotel_Booking_Data_Analysis_Project/
     ├── Analysis.jpeg
     ├── Dashboard.jpeg
     └── Insights.jpeg
+```
 
 ---
 
-## 6. How to Use the Project
+# 🚀 How to Open the Project
 
-```markdown
-# 🚀 How to Use the Project
+Clone the repository:
 
-1. Download or clone this repository.
-2. Open `Final_Project_Hotel_Booking.xlsx` in Microsoft Excel.
-3. Navigate between the Dashboard, Analysis, and Insights pages.
-4. Use the slicers to filter the dashboard by year, hotel type, and customer type.
-5. Review the Analysis page to explore the supporting PivotTables.
+```bash
+git clone git@github.com:MohamedAlaaWork33/Hotel-Booking-Data-Analysis.git
+```
+
+Open **Final_Project_Hotel_Booking.xlsx** using Microsoft Excel.
 
 > **Note:** Power Query connections and refresh behavior may depend on the source-file path. If you move the project to another folder or computer, update the source path if Excel requests it before refreshing the data.
 
